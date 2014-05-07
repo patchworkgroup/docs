@@ -1,4 +1,5 @@
 # Git basics
+Git can be hard to grasp at first and remembering all the commands can be tough. This guide will serve as a very simple reference to some of the most used commands.
 
 ## Adding files
 Add files to stage them for a commit
