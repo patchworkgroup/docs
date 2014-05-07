@@ -32,3 +32,10 @@ Pushing files will transfer un-pushed commits to a remote repository (e.g. Unfud
 git push [remote] [branch]
 ```
 
+## Pulling
+Pulling will transfer un-pulled commits from a remote repository to your local machine
+
+```
+git pull [remote] [branch]
+```
+
