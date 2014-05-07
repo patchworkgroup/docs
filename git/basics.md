@@ -18,9 +18,12 @@ git add -u
 git add -A
 ```
 
-## Committing files
+## Committing
 Committing will create a snapshot of the current state of the working directory. The commit will have a unique hash assigned that works as an identifier. It is possible to roll back to a previous commit.
 
 ```
 git commit -m "[commit message]"
 ```
+
+## Pushing
+Pushing files will transfer un-pushed commits to a remote repository (e.g. Unfuddle or GitHub)
