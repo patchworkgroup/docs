@@ -18,7 +18,8 @@ In code:
 # Fetch all updates
 git pull unfuddle master
 
-# What files have been modified or added? (this is optional and only to give an overview of what you are about to add commit)
+# What files have been modified or added? (this is optional and only 
+# to give an overview of what you are about to add commit)
 git status
 
 # Add all modified files (if you have new files, add them with "git add -A")
