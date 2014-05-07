@@ -1,4 +1,4 @@
-# git basics
+# Git basics
 
 ## Adding files
 Add files to stage them for a commit
@@ -40,18 +40,23 @@ git pull [remote] [branch]
 ```
 
 ## Remotes
+Remotes are remote places to sync your repositories to (e.g. GitHub, Unfuddle, self-configured git-server)
 
 ### Adding a remote
+To add a remote, simply use the following command
 
 ```
 git remote add [remote name] [address]
 ```
 
 ### Displaying all remotes
+If you forget what one of your remotes is called (e.g. when you want to push) it is simple to display all remotes in a repository:
 ```
 git remote -v
 ```
 
 ### Removing a remote
+```
 git remote rm [remote name]
+```
 
