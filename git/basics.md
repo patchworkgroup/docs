@@ -39,3 +39,19 @@ Pulling will transfer un-pulled commits from a remote repository to your local m
 git pull [remote] [branch]
 ```
 
+## Remotes
+
+### Adding a remote
+
+```
+git remote add [remote name] [address]
+```
+
+### Displaying all remotes
+```
+git remote -v
+```
+
+### Removing a remote
+git remote rm [remote name]
+
