@@ -27,3 +27,8 @@ git commit -m "[commit message]"
 
 ## Pushing
 Pushing files will transfer un-pushed commits to a remote repository (e.g. Unfuddle or GitHub)
+
+```
+git push [remote] [branch]
+```
+
